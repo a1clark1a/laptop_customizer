@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cart Component renders given no items 1`] = `
+<section
+  className="main__summary"
+>
+  <h2>
+    Your cart
+  </h2>
+  <Total
+    selected={Object {}}
+  />
+</section>
+`;

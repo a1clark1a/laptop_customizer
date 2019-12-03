@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CostomizeList Component renders given no props 1`] = `
+<form
+  className="main__form"
+>
+  <h2>
+    Customize your laptop
+  </h2>
+</form>
+`;
