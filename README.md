@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ##Component Breakdown
-![breakdown](screenshots/breakdown.jpg);
+![breakdown](screenshots/breakdown.jpg)
 
 ##Component Hierarchy
-![hierarchy](screenshots/hierarchy.jpg);
+![hierarchy](screenshots/hierarchy.jpg)
